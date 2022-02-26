@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">E-commerce</string>
+    <string name="icon_desribe">Sales</string>
+    <string name="tv_contacts">контакты</string>
+    <string name="tv_about_us">о нас</string>
+    <string name="tv_main">главная</string>
+    <string name="courses">Course</string>
+    <string name="App">App</string>
+    <string name="game">игры</string>
+    <string name="language">языки</string>
+    <string name="sites">сайты</string>
+    <string name="other">другое</string>
+    <string name="app">apps</string>
+    <string name="Start_eduqution">дата начала</string>
+    <string name="level">уровень</string>
+    <string name="java_prof">Професия Java\n разработчик</string>
+    <string name="pyton_prof">Професия Pyton\n разработчик</string>
+    <string name="front_prof">Професия Front_end\n разработчик</string>
+    <string name="course_description">Программа обучения Джава – рассчитана \n!</string>
+
+</resources>
